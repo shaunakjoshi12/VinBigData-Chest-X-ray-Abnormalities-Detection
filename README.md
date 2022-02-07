@@ -4,3 +4,5 @@ This was a kaggle competition in which I had trained an object detection model o
 I had participated individually and my rank was 1072 out of 1275 teams.
 
 For more information please visit https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/overview
+
+The 'retinanet' directory inside 'codes' directory was borrowed directly from https://github.com/yhenon/pytorch-retinanet/tree/master/retinanet
